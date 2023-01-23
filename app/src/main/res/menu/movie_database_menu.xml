@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/movie_list"
+    android:title="@string/movies_menu_option" />
+    <item android:id="@+id/genre_list"
+    android:title="@string/genres_menu_option" />
+    <item android:id="@+id/business_entity_list"
+    android:title="@string/business_entities_menu_item" />
+</menu>

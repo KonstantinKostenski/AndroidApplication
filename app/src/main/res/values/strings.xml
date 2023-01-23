@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mobile Movie Database</string>
+    <string name="button_send">Enter The Database</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="add_genre">Add Genre</string>
+    <string name="add_business_entity">Add Business Entity</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_view">View</string>
+    <string name="btn_edit">Edit</string>
+    <string name="delete_prompt_message">Are you sure you want to delete this record?</string>
+    <string name="movie_name_label">Name:</string>
+    <string name="movie_description_label">Description:</string>
+    <string name="movie_genre_label">Genre:</string>
+    <string name="movie_business_entity_label">Business Entity:</string>
+    <string name="for_all">Non Selected</string>
+    <string name="genres_menu_option">Genres</string>
+    <string name="movies_menu_option">Movies</string>
+    <string name="business_entities_menu_item">Business Entities</string>
+</resources>
